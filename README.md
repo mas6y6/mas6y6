@@ -3,7 +3,7 @@
 ## Hi, I’m mas6y6
 
 Just a programmer that does things
-<p align="center">
+<p>
   <img
     src="https://github-stats-extended.vercel.app/api?username=mas6y6&title_color=9b59ff&text_color=e0dbe0&icon_color=5500ff&bg_color=100017&hide_border=true"
     alt="GitHub Stats"
