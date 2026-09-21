@@ -1,4 +1,4 @@
-<img width="1830" height="698" alt="bannerfinal" src="https://github.com/user-attachments/assets/881c3432-5162-44c1-8ec6-ed0a5e9c78d8"/>
+<img width="1870" height="919" alt="banner" src="https://github.com/user-attachments/assets/a4562e3f-7de9-4fdf-a9eb-0f04e5096a02" />
 
 ## Hi, I’m mas6y6
 
